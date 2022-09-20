@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jack
-- 👀 I’m interested in c++,c,java,python,script language,windows,macos,linux,devops,hacker,history
-- 🌱 I’m currently learning gtk , libreoffice devel
+- 👀 I’m interested in c++,c,java,python,script language,windows,macos,linux,devops,kali,HL7,dcmtk,hospital info manager system
+- 🌱 I’m currently learning gtk, libreoffice devel
 - 📫 How to reach me , my email is zhaoweiy09@gmail.com
 
 <!---

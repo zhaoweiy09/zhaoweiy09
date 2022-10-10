@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Jack
 - 👀 I’m interested in C，C++，C#，Java，Python，Windows，macOS，Linux，Qt，LibreOffice，DevOps，Kali，CyberSecurity，HL7，DCMTK，Hospital Info Manage System
-
 <!---
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate 
